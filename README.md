@@ -1,7 +1,7 @@
 # AtliQMart-Supply-Chain-Analytics
 
 ## 1. Project Overview  
-AtliqMart is a Gujarat-based organic manufacturer that recently expanded into New Jersey, USA. While the company experienced strong demand, it faced challenges in supply chain management and customer order fulfillment. This project demonstrates how **data analytics and automation** can be applied to streamline inventory and order management, ultimately improving customer satisfaction and preparing the company for global scaling.  
+AtliQMart is a Gujarat-based organic manufacturer that recently expanded into New Jersey, USA. While the company experienced strong demand, it faced challenges in supply chain management and customer order fulfillment. This project demonstrates how **data analytics and automation** can be applied to streamline inventory and order management, ultimately improving customer satisfaction and preparing the company for global scaling.  
 
 ---
 
@@ -79,11 +79,13 @@ AtliqMart is a Gujarat-based organic manufacturer that recently expanded into Ne
 ## 9. Repository Structure  
 ```plaintext
 AtliqMart-SupplyChain-Analytics/
-│── data/                # Sample datasets (orders, inventory, customers)
+│── Dataset/
+   │──Incoming mail data/
+   │──Postgre input files  /           
 │── notebooks/           # Data cleaning, EDA, forecasting models
 │── automation/          # n8n workflows or scripts
-│── dashboard/           # Power BI / Tableau / Streamlit files
-│── docs/                # Screenshots, reports, ppt
+│── AtliQMart Supply chain analysis dashboard/
+│── Report/                # Screenshots, explanation
 │── demo/                # Demo video, presentation
 │── README.md            # This document
 ```
