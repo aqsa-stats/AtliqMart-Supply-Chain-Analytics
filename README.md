@@ -78,7 +78,7 @@ AtliQMart is a Gujarat-based organic manufacturer that recently expanded into Ne
 
 ## 9. Repository Structure  
 ```plaintext
-AtliqMart-SupplyChain-Analytics/
+AtliQMart-SupplyChain-Analytics/
 │── Dataset/
    │──Incoming mail data/
    │──Postgre input files  /           
@@ -91,7 +91,7 @@ AtliqMart-SupplyChain-Analytics/
 ```
 ## 10.Demo Video
 - The demo video includes:
-- Introduction to AtliqMart’s business challenge
+- Introduction to AtliQMart’s business challenge
 - Explanation of data pipeline (automation + AI spreadsheet + database)
 - Dashboard walkthrough with insights
 - Business value of the solution
