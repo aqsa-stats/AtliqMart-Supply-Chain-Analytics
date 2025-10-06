@@ -17,22 +17,22 @@ AtliQMart is a Gujarat-based organic manufacturer that recently expanded into Ne
 
 ## 3. Solution Approach  
 
-✅ **AI-Powered Data Management**  
+ **AI-Powered Data Management**  
 - Used **Quadratic AI-powered spreadsheet** with database connectivity.  
 - Enabled real-time synchronization with **PostgreSQL**.  
 
-✅ **Automation with N8N**  
+ **Automation with N8N**  
 - Migrated customer order data directly from **emails → PostgreSQL database**.  
 - Reduced manual work and errors.  
 
-✅ **Analytics Dashboard**  
+ **Analytics Dashboard**  
 - Built interactive dashboards for:  
   - Inventory tracking  
   - Order fulfillment KPIs  
   - Supply-demand mismatch alerts  
   - Customer satisfaction insights  
 
-✅ **Scalability**  
+ **Scalability**  
 - Solution is flexible for future **ERP integration** and demand forecasting models.  
 
 ---
