@@ -53,47 +53,27 @@ AtliQMart is a Gujarat-based organic manufacturer that recently expanded into Ne
 ---
 
 ## 6. Dashboard Features  
-- Real-time inventory monitoring  
-- Order status tracking (on-time vs delayed orders)  
-- Top products & demand analysis  
-- Customer complaint trends  
+- Real-time inventory monitoring   
+- Top products & demand analysis   
 - KPIs for supply chain efficiency  
-
 ---
 
-## 7. Results & Business Impact  
-- Automated data handling reduced **manual errors**.  
-- Improved **inventory visibility** and prevented stock-outs.  
-- Enhanced **customer satisfaction** by streamlining order fulfillment.  
-- Provided a scalable framework for future growth in new markets.  
-
----
-
-## 8. Future Scope  
+## 7. Future Scope  
 - Integrate ML models for **demand forecasting**.  
 - Add predictive alerts for **low stock levels**.  
 - Expand dashboard to cover **supplier performance metrics**.  
 
 ---
 
-## 9. Repository Structure  
+## 8. Repository Structure  
 ```plaintext
 AtliQMart-SupplyChain-Analytics/
 │── Dataset/
    │──Incoming mail data/
    │──Postgre input files  /           
-│── notebooks/           # Data cleaning, EDA, forecasting models
-│── automation/          # n8n workflows or scripts
-│── AtliQMart Supply chain analysis dashboard/
 │── Report/                # Screenshots, explanation
-│── demo/                # Demo video, presentation
+│── video/                # Demo video, presentation
 │── README.md            # This document
 ```
-## 10.Demo Video
-- The demo video includes:
-- Introduction to AtliQMart’s business challenge
-- Explanation of data pipeline (automation + AI spreadsheet + database)
-- Dashboard walkthrough with insights
-- Business value of the solution
   
 #### This project was inspired and learned from tutorials on the Codebasics YouTube channel
