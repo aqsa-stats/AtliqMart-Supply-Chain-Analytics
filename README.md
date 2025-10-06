@@ -1,5 +1,5 @@
 # AtliQMart-Supply-Chain-Analytics
-
+https://github.com/user-attachments/assets/461d83c0-78e1-44f5-a7d3-ed156a883481
 ## 1. Project Overview  
 AtliQMart is a Gujarat-based organic manufacturer that recently expanded into New Jersey, USA. While the company experienced strong demand, it faced challenges in supply chain management and customer order fulfillment. This project demonstrates how **data analytics and automation** can be applied to streamline inventory and order management, ultimately improving customer satisfaction and preparing the company for global scaling.  
 
